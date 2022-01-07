@@ -10,10 +10,10 @@ There are seventeen variables recorded for each patient. The objective is to pre
 patient survives the first year following surgery (Death_1yr).
 
 The ThoracicSurgery dataset contains the following 17 Variables for the 470 patients:
-  //Diagnosis : ICD-10 codes for primary and secondary as well multiple tumours if any (‘DGN1’,‘DGN2’, ’DGN3’, ’DGN4’, ’DGN5’, ’DGN6’, ’DGN8’)
-  //FVC : Forced vital capacity - Amount of air which can be forcibly exhaled from the lungs after taking the deepest breath possible
-  //FEV : Volume that has been exhaled at the end of the first second of forced expiration (FEV)
-  //Performance : Performance status on Zubrod scale (‘PRZ0’ - Good , ‘PRZ1’, ‘PRZ2’ - Poor)
+  Diagnosis : ICD-10 codes for primary and secondary as well multiple tumours if any (‘DGN1’,‘DGN2’, ’DGN3’, ’DGN4’, ’DGN5’, ’DGN6’, ’DGN8’)
+  FVC : Forced vital capacity - Amount of air which can be forcibly exhaled from the lungs after taking the deepest breath possible
+  FEV : Volume that has been exhaled at the end of the first second of forced expiration (FEV)
+  Performance : Performance status on Zubrod scale (‘PRZ0’ - Good , ‘PRZ1’, ‘PRZ2’ - Poor)
   Pain : Pain before surgery (‘T’, ‘F’)
   Haemoptysis : Coughing up blood before surgery (‘T’, ’F’)
   Dyspnoea : Difficult or laboured breathing before surgery (‘T’, ’F’)
